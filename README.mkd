@@ -1,1 +1,1 @@
-# CSSFrag is now [Pinpoint](https://github.com/karanlyons/pinpoint)
+# CSSFrag is now [Pinpoint](https://github.com/karanlyons/pinpoint).
